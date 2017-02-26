@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "oscarotero/psr7-middlewares": "^3.19"
+    }
+}
